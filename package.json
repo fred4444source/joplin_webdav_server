@@ -1,0 +1,26 @@
+{
+  "name": "joplin_webdav_server",
+  "version": "1.0.0",
+  "description": "for my joplin data server with the webdav",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred4444source/joplin_webdav_server.git"
+  },
+  "keywords": [
+    "joplin",
+    "webdev"
+  ],
+  "author": "fred4444source",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fred4444source/joplin_webdav_server/issues"
+  },
+  "homepage": "https://fred4444source.github.io/joplin_webdav_server",
+  "dependencies": {
+    "webdav-server": "^2.6.2"
+  }
+}
